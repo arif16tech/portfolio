@@ -49,7 +49,7 @@ const skillCategories = [
       { label: 'Restful APIs' },
       { label: 'JWT' },
       { label: 'OAuth2' },
-      { label: 'Rate Limiting' },
+      { label: 'Socket.IO' },
     ]
   },
   {
@@ -67,6 +67,11 @@ const skillCategories = [
       { label: 'Docker' },
       { label: 'Postman' },
       { label: 'VS Code' },
+      { label: 'Antigravity' },
+      { label: 'Cloudinary' },
+      { label: 'Vercel' },
+      { label: 'Render' },
+      { label: 'Railway' },
     ]
   }
 ]
